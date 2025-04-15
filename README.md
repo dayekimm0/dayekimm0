@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699.svg?&style=for-the-badge&logo=Sass&logoColor=white"/>
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=white"/>
 <img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
-<img alt="Styled-components" src="https://img.shields.io/badge/Styled--components-DB7093.svg?&style=for-the-badge&logo=styled--components&logoColor=white"/>
+<img alt="Styled-components" src="https://img.shields.io/badge/Styled--components-DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white"/>
